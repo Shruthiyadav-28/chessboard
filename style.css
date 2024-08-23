@@ -1,0 +1,35 @@
+*{
+
+    margin:0px;
+    padding: 0px;
+}
+.container0{
+
+    width:400px;
+    height: 400px;
+    justify-content: center;
+}
+table{
+   border-style: solid;
+   width:50%
+
+}
+
+tr{
+
+height:80px;
+
+
+
+}
+td{
+   
+    text-align: center;
+    font-size: 60px;
+}
+.blue{
+    background-color: blue;
+}
+.white{
+    background-color: white;
+}
